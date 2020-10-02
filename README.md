@@ -12,7 +12,7 @@ devtools::install_github("ucdavis-sta141c-sq-2020/blblm")
 and test it out.
 
 
-Your job is improved my package to various ways. For examples,
+Your job is to improved my package to various ways. For examples,
 
 
 1. In the current implementation, only one CPU is used in the algorithm. Make it possible to use more than one CPUs. Note that you should let users to decide if they want to use parallelization.
